@@ -1,0 +1,7 @@
+整个框架的渲染和逻辑基于gamestage类（详见注释）
+完成一个gamestage子类之后需要在GameStage.__init__.py内注册，随后在GameView内调用即可
+常用GUI组件可以参考Element类注释
+
+请安装pygame 库运行
+
+Demo附上（有BUG）
